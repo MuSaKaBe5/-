@@ -9,3 +9,8 @@ sudo yum install wget
 
 ![image](https://github.com/user-attachments/assets/5fab7563-f9b7-4dac-87e9-9bfcf5af549b)
 
+
+Установка гостевых дополнений 
+
+![image](https://github.com/user-attachments/assets/9596fc5f-52bd-4764-b390-cfa75080c7a6)
+
