@@ -131,6 +131,10 @@ sudo yum install wget
 
 <h1>Продолжение следует</h1>
 
+<h1>Grafana</h1>
+
+переходим на сайт localhost:3000
+
 
 
 
