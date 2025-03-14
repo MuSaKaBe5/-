@@ -133,7 +133,6 @@ sudo yum install wget
 
 ![image](https://github.com/user-attachments/assets/5479e6be-1f53-465b-b542-dd5c1a2a21b2)
 
-<h1>Продолжение следует</h1>
 
 <h1>Grafana</h1>
 
@@ -169,6 +168,11 @@ Import dashboard:
 
 ![image](https://github.com/user-attachments/assets/0f6b4b7f-ff3b-483d-bddd-fa7446e6ce71)
 
+Нажимаем import:
+
+![image](https://github.com/user-attachments/assets/5fc5786b-e9da-490f-b25b-1e2466d47b04)
+
+<h1>Все готово!</h1>
 
 
 
