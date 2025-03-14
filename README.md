@@ -139,6 +139,43 @@ sudo yum install wget
 
 переходим на сайт localhost:3000
 
+![image](https://github.com/user-attachments/assets/968cd72b-4c7e-4370-b2de-1ba3cfeb0637)
+
+Выбираем dashboard 
+
+![image](https://github.com/user-attachments/assets/610949f6-40fb-4877-b2dc-73ddd6a0433b)
+
+Создаем визуализацию
+
+![image](https://github.com/user-attachments/assets/f13c69ab-29ef-4dca-9e5b-c47ee72d5933)
+
+Выбираем прометеус 
+
+![image](https://github.com/user-attachments/assets/f5205698-a5b2-4a84-8530-bac2e41f50a2)
+
+Код прометеуса: http://prometheus:9090
+
+![image](https://github.com/user-attachments/assets/c54794c8-4cbb-4c1c-a13f-41ffede59005)
+
+Проверка:
+
+![image](https://github.com/user-attachments/assets/fc404e8c-ab97-41f5-80cf-1a7b379b48e4)
+
+Создаю dashboard и ввожу шаблон 1860:
+
+![image](https://github.com/user-attachments/assets/a49cf0fd-5102-481a-87f6-23e217c233aa)
+
+Import dashboard:
+
+![image](https://github.com/user-attachments/assets/0f6b4b7f-ff3b-483d-bddd-fa7446e6ce71)
+
+
+
+
+
+
+
+
 
 
 
