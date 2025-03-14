@@ -57,6 +57,10 @@ sudo yum install wget
 
 10. sudo chmod +x /usr/bin/docker-compose
 
+10.1 ![image](https://github.com/user-attachments/assets/8424a52c-3475-4bce-82e4-d436c41eee9d)
+Делаем проверку на правильность работы команды (Работает Нормально)
+
+
 • Предоставление прав на выполнение файла docker-compose.
 
 11. docker-compose --version
