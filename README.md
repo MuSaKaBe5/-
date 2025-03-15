@@ -184,6 +184,14 @@ Import dashboard:
 
 <h1>Victoria Metricks</h1>
 
+Создаем новый dashboard (prometheus) Victoria
+
+![image](https://github.com/user-attachments/assets/5bbb6e42-8242-4273-8f6b-face831775b0)
+
+Сохраняем и тестируем 
+
+![image](https://github.com/user-attachments/assets/4614ff93-daff-4037-b0d6-7b8ae3c0cb21)
+
 
 
 
