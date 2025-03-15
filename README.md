@@ -2,9 +2,7 @@
    <h1>UML - Диаграмма</h1>
 </center>
 
-<center>
    ![image](https://github.com/user-attachments/assets/d1188c08-2930-427a-b9da-d2c3508c8dd6)
-</center>
 
 # -Начинаем работу с установки утилиты wget
 
