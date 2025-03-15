@@ -1,5 +1,5 @@
 <center>
-   <h1>UML - Диаграмма</h1>
+   <h1>Архтитектура информационных систем</h1>
 </center>
 
    ![image](https://github.com/user-attachments/assets/d1188c08-2930-427a-b9da-d2c3508c8dd6)
@@ -180,7 +180,9 @@ Import dashboard:
 
 <h1>Все готово!</h1>
 
+<h2>Продолжение</h2>
 
+<h1>Victoria Metricks</h1>
 
 
 
