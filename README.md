@@ -142,23 +142,23 @@ sudo yum install wget
 
 <h1>Grafana</h1>
 
-переходим на сайт localhost:3000
+23.переходим на сайт localhost:3000
 
 ![image](https://github.com/user-attachments/assets/968cd72b-4c7e-4370-b2de-1ba3cfeb0637)
 
-Выбираем dashboard 
+24.Выбираем dashboard 
 
 ![image](https://github.com/user-attachments/assets/610949f6-40fb-4877-b2dc-73ddd6a0433b)
 
-Создаем визуализацию
+25.Создаем визуализацию
 
 ![image](https://github.com/user-attachments/assets/f13c69ab-29ef-4dca-9e5b-c47ee72d5933)
 
-Выбираем прометеус 
+26.Выбираем прометеус 
 
 ![image](https://github.com/user-attachments/assets/f5205698-a5b2-4a84-8530-bac2e41f50a2)
 
-Код прометеуса: http://prometheus:9090
+27.Код прометеуса: http://prometheus:9090
 
 ![image](https://github.com/user-attachments/assets/c54794c8-4cbb-4c1c-a13f-41ffede59005)
 
@@ -166,11 +166,11 @@ sudo yum install wget
 
 ![image](https://github.com/user-attachments/assets/fc404e8c-ab97-41f5-80cf-1a7b379b48e4)
 
-Создаю dashboard и ввожу шаблон 1860:
+28.Создаю dashboard и ввожу шаблон 1860:
 
 ![image](https://github.com/user-attachments/assets/a49cf0fd-5102-481a-87f6-23e217c233aa)
 
-Import dashboard:
+29.Import dashboard:
 
 ![image](https://github.com/user-attachments/assets/0f6b4b7f-ff3b-483d-bddd-fa7446e6ce71)
 
@@ -184,13 +184,37 @@ Import dashboard:
 
 <h1>Victoria Metricks</h1>
 
-Создаем новый dashboard (prometheus) Victoria
+30.Создаем новый dashboard (prometheus) Victoria
 
 ![image](https://github.com/user-attachments/assets/5bbb6e42-8242-4273-8f6b-face831775b0)
 
 Сохраняем и тестируем 
 
 ![image](https://github.com/user-attachments/assets/4614ff93-daff-4037-b0d6-7b8ae3c0cb21)
+
+31.Вставляем в терминал код: echo -e "# TYPE light_metric1 gauge\nlight_metric1 0" | curl --data-binary @- http://localhost:8428/api/v1/import/prometheus
+
+![image](https://github.com/user-attachments/assets/cd269c1e-22ca-4dd1-ac0e-06a802493f3e)
+
+32.Вставляем код: light_metric1 и запускаем 
+
+![image](https://github.com/user-attachments/assets/d8ce00ca-37ee-4393-9fd2-c5a267fd5c67)
+
+![image](https://github.com/user-attachments/assets/57b3b3e8-86ca-4e7f-98c9-de1476022fcc)
+
+33.Заходим на локал хост 8428 и выбираем vmui, вставляем light_metric1
+
+![image](https://github.com/user-attachments/assets/06c6ece6-38d8-4669-b860-fb5820ce1930)
+
+Проверяем, все запущено.
+
+![image](https://github.com/user-attachments/assets/d9760e08-ec91-4d61-b2e6-1adf5622d24e)
+
+
+
+
+
+
 
 
 
