@@ -1,4 +1,4 @@
-<center>
+![image](https://github.com/user-attachments/assets/0c6fed08-ddad-4834-b677-f505cdf44cc3)<center>
    <h1>Архтитектура информационных систем</h1>
 </center>
 
@@ -219,7 +219,13 @@ sudo yum install wget
 
 35. Проверка firewall ( если выводит runnuing то firewall включен )
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/3b021749-cb4b-49d2-bb0b-b93159a23d4d)
+
+
+
+
+
+
 
 
 
