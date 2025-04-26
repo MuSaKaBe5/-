@@ -211,6 +211,19 @@ sudo yum install wget
 ![image](https://github.com/user-attachments/assets/d9760e08-ec91-4d61-b2e6-1adf5622d24e)
 
 
+<h1>Создание второй ВМ</h1>
+
+![image](https://github.com/user-attachments/assets/22bebeb4-f182-47d8-ae6e-ddd6e395de28)
+
+34.Гостевые дополнения установлены 
+
+35. Проверка firewall ( если выводит runnuing то firewall включен )
+
+![Uploading image.png…]()
+
+
+
+
 
 
 
